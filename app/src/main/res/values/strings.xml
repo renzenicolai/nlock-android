@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NLock</string>
+    <string name="service_description">NLock service</string>
+    <string name="appdu_description">NLock APPDU</string>
+</resources>
